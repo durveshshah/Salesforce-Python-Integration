@@ -1,0 +1,35 @@
+div.jumbotron.p-3
+{
+    background-color: skyblue;
+
+}
+#accname
+{
+    width: 200px;
+}
+
+#accnumber
+{
+    width: 204px;
+}
+
+#accphone
+{
+    width: 200px;
+}
+
+.form-group
+{
+    margin-top:100px;
+}
+
+body {
+
+background-image: url("/static/download.jfif");
+background-size: 1920px 900px;
+background-repeat: repeat;
+max-width: 100%;
+overflow-x: hidden;
+
+}
+

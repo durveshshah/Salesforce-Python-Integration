@@ -1,0 +1,16 @@
+{
+    "thisAccount": {
+        "Name" : "sss1",
+        "phone" : "8867",
+        "AccountNumber" : "111"
+    },
+    "attachments": 
+    [{
+        "Body": "aGVsbG8=",
+        "Name": "hello.txt"
+    }, 
+    {
+        "Body": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAMSURBVBhXY3growIAAycBLhVrvukAAAAASUVORK5CYII=",
+        "Name": "picture.png"
+    }]
+}
